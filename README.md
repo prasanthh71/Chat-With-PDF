@@ -32,8 +32,8 @@ To run this application, you will need the following:
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/SqwareInfotechLearn/Chat-With-Documents.git
-cd Chat-With-Documents
+git clone https://github.com/prasanthh71/Chat-With-PDF.git
+cd Chat-With-PDF
 ```
 
 ### 2. Set up the environment
